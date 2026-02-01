@@ -2,7 +2,10 @@
   Automated Snooker Table System
   Author: Michael Unuaga-Joel (devjunkiee)
   Organization: Neovate Technologies
+  Description:
+  ESP32 firmware for payment-triggered access control using Firebase.
 */
+
 
 #include <WiFi.h>
 #include <ESP32Servo.h>
