@@ -1,3 +1,9 @@
+/*
+  Automated Snooker Table System
+  Author: Michael Unuaga-Joel (devjunkiee)
+  Organization: Neovate Technologies
+*/
+
 #include <WiFi.h>
 #include <ESP32Servo.h>
 #include <Firebase_ESP_Client.h>
@@ -9,8 +15,8 @@
 
 
 // ================= WIFI =================
-#define WIFI_SSID     "SNOOKER"
-#define WIFI_PASSWORD "Snooker1122"
+#define WIFI_SSID     "NAME"  
+#define WIFI_PASSWORD "PASSWORD"
 
 
 // ================= FIREBASE =================
